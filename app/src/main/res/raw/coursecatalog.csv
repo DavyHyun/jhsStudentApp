@@ -1,0 +1,270 @@
+Course Code,Title,Credit,CTE,English,Math,PE,Science,Social Studies,V&P Arts,Other,Course Equiv,Quant
+121SCI,9th Grade Science & Engineering,1,X,O,O,O,X,O,O,O,X,X
+CTE201,Accounting I,0.5,X,O,O,O,O,O,O,O,O,X
+CTE205,Accounting II,0.5,X,O,O,O,O,O,O,O,O,X
+039MTH,Acheive Algebra 1 (IEP),1,O,O,X,O,O,O,O,O,O,X
+"081ENG, 083ENG, 085ENG, 087ENG",Achieve ELA (IEP),.5 or 1.0,O,X,O,O,O,O,O,O,O,O
+041MTH,Achieve Geometry (IEP),1,O,O,X,O,O,O,O,O,O,X
+STS025/026,Achieve Social Skills (IEP),.5 or 1.0,O,O,O,O,O,O,O,Elective,O,O
+011STS,Adaptive Academics (IEP),1,O,O,O,O,O,O,O,Elective,O,O
+021STS,Adaptive Community Access (IEP),1,O,O,O,O,O,O,O,Elective,O,O
+031STS,Adaptive Daily Living (IEP),1,O,O,O,O,O,O,O,Elective,O,O
+021MTH,Adaptive Mathematics (IEP),1,O,O,X,O,O,O,O,O,O,X
+PED218/247,Adaptive PE (IEP),1,O,O,O,X,O,O,O,O,O,O
+021ENG,Adaptive Reading (IEP),1,O,X,O,O,O,O,O,O,O,O
+051STS,Adaptive Vocational Experience (IEP),1,O,O,O,O,O,O,O,Elective,O,O
+041ENG,Adaptive Written Language (IEP),1,O,X,O,O,O,O,O,O,O,O
+PED309/310,Advanced Cardio & Core Training,.5 or 1.0,O,O,O,X,O,O,O,O,O,O
+ENG017/018,Advanced Composition & Literature (ELs),.5 or 1.0,O,O,O,O,O,O,O,Elective,O,O
+403CTE,Advanced Computer Science Topics,1,X,O,O,O,O,O,O,O,O,X
+PED341/342,Advanced Court Sports,.5 or 1.0,O,O,O,X,O,O,O,Elective,O,O
+FAA205/206,Advanced Drama,.5 or 1.0,O,O,O,O,O,O,X,O,O,O
+FAA183,Advanced Glass Art,0.5,O,O,O,O,O,O,X,Elective,O,O
+ENG517/518,Advanced Journalism,.5 or 1.0,O,O,O,O,O,O,O,Elective,O,O
+SER201/202,Advanced Leadership,.5 or 1.0,O,O,O,O,O,O,O,Elective,O,O
+PED331/332,Advanced Team Sports,.5 or 1.0,O,O,O,X,O,O,O,O,O,O
+PED311/312,Advanced Weight Training,.5 or 1.0,O,O,O,X,O,O,O,O,O,O
+101MTH,Algebra 1,1,O,O,X,O,O,O,O,O,O,X
+301MTH,Algebra 2/Trigonometry,1,O,O,X,O,O,O,O,O,O,X
+351MTH,Algebra 2/Trigonometry Honors,1,O,O,X,O,O,O,O,O,O,X
+273SCI,Anatomy & Physiology,1,X,O,O,O,X,O,O,O,X,X
+291SCI,AP Biology,1,O,O,O,O,X,O,O,O,O,X
+591MTH,AP Calculus AB,1,O,O,X,O,O,O,O,O,O,X
+593MTH,AP Calculus BC,1,O,O,X,O,O,O,O,O,O,X
+391SCI,AP Chemistry,1,O,O,O,O,X,O,O,O,O,X
+495WLA,AP Chinese Language & Culture,1,O,O,O,O,O,O,O,WL,O,O
+337CTE,AP Computer Science A,1,X,O,O,O,X,O,O,O,X,X
+481CTE,AP Computer Science Principles,1,X,O,O,O,X,O,O,O,X,X
+391ENG,AP English Language & Composition,1,O,X,O,O,O,O,O,O,O,O
+491ENG,AP English Literature & Composition,1,O,X,O,O,O,O,O,O,O,O
+593SCI,AP Environmental Science,1,X,O,O,O,X,O,O,O,X,X
+417WLA,AP French Language & Culture,1,O,O,O,O,O,O,O,WL,O,O
+427WLA,AP German Language & Culture,1,O,O,O,O,O,O,O,WL,O,O
+691SOC,AP Human Geography,1,O,O,O,O,O,X,O,O,O,O
+495CTE,AP Macroeconomics,1,X,O,O,O,O,X,O,O,X,X
+493CTE,AP Microeconomics,1,X,O,O,O,O,X,O,O,X,X
+491SCI,AP Physics I,1,O,O,O,O,X,O,O,O,O,X
+693SOC,AP Psychology,1,X,O,O,O,O,X,O,O,X,O
+563CTE,AP Research – Elective ,1,X,O,O,O,O,O,O,CCRS+Elec,X,O
+551CTE,AP Research – English Elective,1,X,O,O,O,O,O,O,CCRS+Elec,X,O
+555CTE,AP Research – Mathematics,1,X,O,X,O,O,O,O,CCRS,X,O
+557CTE,AP Research – Science ,1,X,O,O,O,X,O,O,CCRS,X,O
+553CTE,AP Research – Social Studies,1,X,O,O,O,O,X,O,CCRS,X,O
+561CTE,AP Research – V&P Arts ,1,X,O,O,O,O,O,X,CCRS,X,O
+363CTE,AP Seminar,1,X,X,Course Equivalency will be offered for English 2 or English 3 depending on student’s grade level and high school English courses completed.,X,O,O,O,O,O,O
+491WLA,AP Spanish Language & Culture,1,O,O,O,O,O,O,O,WL,O,O
+401WLA,AP Spanish Literature & Culture,1,O,O,O,O,O,O,O,WL,O,O
+691MTH,AP Statistics,1,O,O,X,O,O,O,O,O,O,X
+391CTE,AP Studio Art: 2-D Design,1,X,O,O,O,O,O,X,O,X,O
+393CTE,AP Studio Art: 3-D Design,1,X,O,O,O,O,O,X,O,X,O
+575CTE,AP Studio Art: Drawing,1,X,O,O,O,O,O,X,O,X,O
+591SOC,AP U.S. Government & Politics,1,O,O,O,O,O,X,O,CCRS,X,O
+391SOC,AP U.S. History,1,O,O,O,O,O,X,O,O,O,O
+291SOC,AP World History,1,O,O,O,O,O,X,O,O,O,O
+FAA231/232,Art Peer Tutor,.5 or 1.0,O,O,O,O,O,O,X,O,O,O
+301SER,ASB Leadership,1,O,O,O,O,O,O,O,Elective,O,O
+501SCI,Astronomy & Aerospace Engineering,1,O,O,O,O,X,O,O,O,O,X
+CTE601,Automotive Maintenance (CHS),0.5,X,O,O,O,O,O,O,O,O,O
+605CTE/CTE605,Automotive Technology (CHS),.5 or 1.0,X,O,O,O,O,O,O,O,O,O
+151ALT,AVID 9,1,O,O,O,O,O,O,O,Elective,O,O
+251ALT,AVID 10,1,O,O,O,O,O,O,O,Elective,O,O
+351ALT,AVID 11,1,O,O,O,O,O,O,O,Elective,O,O
+455ALT,AVID 12,1,X,O,O,O,O,O,O,CCRS,X,O
+FAA329,Bass Guitar,0.5,O,O,O,O,O,O,X,O,O,O
+FAA201,Beginning Drama,0.5,O,O,O,O,O,O,X,O,O,O
+FAA181,Beginning Glass Art,0.5,O,O,O,O,O,O,X,O,O,O
+357FAA,Beginning Jazz Ensemble ,1,O,O,O,O,O,O,X,O,O,O
+201SCI,Biology,1,O,O,O,O,X,O,O,O,O,X
+407SCI,Biotechnology,1,X,O,O,O,X,O,O,O,X,X
+315MTH,Bridge to College Mathematics,1,O,O,X,O,O,O,O,O,O,X
+CTE527,Business & Professional Services Internship,0.5,X,O,O,O,O,O,O,O,O,O
+CTE209,Business Law,0.5,X,O,O,O,O,O,O,O,O,O
+501MTH,Calculus,1,O,O,X,O,O,O,O,O,O,X
+PED209/210,Cardio & Core Training,.5 or 1.0,O,O,O,X,O,O,O,O,O,O
+CTE515,Career Choices,0.5,X,O,O,O,O,O,O,O,O,O
+FAA131,Cartooning 1,0.5,O,O,O,O,O,O,X,O,O,O
+FAA137,Cartooning 2,0.5,O,O,O,O,O,O,X,O,O,O
+FAA121,Ceramics 1,0.5,O,O,O,O,O,O,X,O,O,O
+FAA125/126,Ceramics 2,.5 or 1.0,O,O,O,O,O,O,X,O,O,O
+301SCI,Chemistry,1,O,O,O,O,X,O,O,O,O,X
+CTE125,Child Development,0.5,X,O,O,O,O,O,O,O,O,O
+141WLA,Chinese 1,1,O,O,O,O,O,O,O,WL,O,O
+241WLA,Chinese 2,1,O,O,O,O,O,O,O,WL,O,O
+341WLA,Chinese 3,1,O,O,O,O,O,O,O,WL,O,O
+441WLA,Chinese 4,1,O,O,O,O,O,O,O,WL,O,O
+ENG541,Cinema Visions,0.5,O,O,O,O,O,O,O,Elective,O,O
+GRD421/422,College & Career Readiness Seminar (CCRS),0.5,X,O,O,O,O,O,O,CCRS,X,O
+CTE521,Communication & Information Technology Internship,0.5,X,O,O,O,O,O,O,O,O,O
+015ENG,Composition & Literature (ELs),1,O,O,O,O,O,O,O,Elective,O,O
+CTE225,Computer Applications,0.5,X,O,O,O,O,O,O,O,O,X
+351FAA,Concert Band,1,O,O,O,O,O,O,X,O,O,O
+401FAA,Concert Choir,1,O,O,O,O,O,O,X,O,O,O
+363FAA,Concert Orchestra,1,O,O,O,O,O,O,X,O,O,O
+ENG524,Contemporary Authors,0.5,O,O,O,O,O,O,O,Elective,O,O
+SOC411,Contemporary Global Issues,0.5,O,O,O,O,O,X,O,O,O,O
+PED241/242,Court Sports,.5 or 1.0,O,O,O,X,O,O,O,O,O,O
+ENG511,Creative Writing I,0.5,O,O,O,O,O,O,O,Elective,O,O
+ENG513,Creative Writing II,0.5,O,O,O,O,O,O,O,Elective,O,O
+CTE321,Digital Photography I,0.5,X,O,O,O,O,O,X,O,X,O
+CTE361/362,Digital Photography II,.5 or 1.0,X,O,O,O,O,O,X,O,X,O
+FAA215/216,Drama Improvisation,.5 or 1.0,O,O,O,O,O,O,X,O,O,O
+FAA111,Drawing & Painting 1,0.5,O,O,O,O,O,O,X,O,O,O
+FAA113/114,Drawing & Painting 2,.5 or 1.0,O,O,O,O,O,O,X,O,O,O
+CTE215,Economics,0.5,X,O,O,O,O,X,O,O,X,X
+CTE525,Educational Studies Internship,0.5,X,O,O,O,O,O,O,O,O,O
+CTE529,Energy & Sustainability Internship,0.5,X,O,O,O,O,O,O,O,O,O
+375CTE,Engineer Your World,1,X,O,O,O,O,O,O,O,O,X
+CTE523,Engineering Internship,0.5,X,O,O,O,O,O,O,O,O,O
+101ENG,English 1,1,O,X,O,O,O,O,O,O,O,O
+151ENG,English 1 Honors,1,O,X,O,O,O,O,O,O,O,O
+201ENG,English 2,1,O,X,O,O,O,O,O,O,O,O
+251ENG,English 2 Honors,1,O,X,O,O,O,O,O,O,O,O
+301ENG,English 3,1,O,X,O,O,O,O,O,O,O,O
+351ENG,English 3 Honors,1,O,X,O,O,O,O,O,O,O,O
+401ENG,English 4,1,O,X,O,O,O,O,O,O,O,O
+461ENG,English 4 EvCC,1,O,X,O,O,O,O,O,O,O,O
+011ENG,English Acquisition (ELs),1,O,O,O,O,O,O,O,Elective,O,O
+533SCI,Environmental Systems Design,1,X,O,O,O,X,O,O,O,X,X
+CTE227,Exploring Computer Science,0.5,X,O,O,O,O,O,O,O,O,X
+CTE110,Family Health,0.5,X,O,O,O,O,O,O,Health,X,O
+PED351,Flexibility & Fitness I ,0.5,O,O,O,X,O,O,O,O,O,O
+PED353/354,Flexibility & Fitness II,.5 or 1.0,O,O,O,X,O,O,O,O,O,O
+PED357/358,Flexibility & Fitness III,.5 or 1.0,O,O,O,X,O,O,O,O,O,O
+111WLA,French 1,1,O,O,O,O,O,O,O,WL,O,O
+211WLA,French 2,1,O,O,O,O,O,O,O,WL,O,O
+311WLA,French 3,1,O,O,O,O,O,O,O,WL,O,O
+411WLA,French 4,1,O,O,O,O,O,O,O,WL,O,O
+013STS,Functional Academics (IEP),1,O,O,O,O,O,O,O,Elective,O,O
+GRD407/408,Functional College & Career Readiness Seminar (IEP),0.5,O,O,O,O,O,O,O,CCRS,O,O
+033STS,Functional Daily Living (IEP),1,O,O,O,O,O,O,O,Elective,O,O
+"061ENG, 063ENG, 065ENG, 067ENG",Functional English (IEP),1,O,X,O,O,O,O,O,O,O,O
+023MTH,Functional Mathematics (IEP),1,O,O,X,O,O,O,O,O,O,X
+023ENG,Functional Reading (IEP),1,O,X,O,O,O,O,O,O,O,O
+053STS,Functional Vocational Exploration (IEP),1,O,O,O,O,O,O,O,Elective,O,O
+043ENG,Functional Written Language (IEP),1,O,X,O,O,O,O,O,O,O,O
+201MTH,Geometry,1,O,O,X,O,O,O,O,O,O,X
+251MTH,Geometry Honors,1,O,O,X,O,O,O,O,O,O,X
+121WLA,German 1,1,O,O,O,O,O,O,O,WL,O,O
+221WLA,German 2,1,O,O,O,O,O,O,O,WL,O,O
+321WLA,German 3,1,O,O,O,O,O,O,O,WL,O,O
+421WLA,German 4,1,O,O,O,O,O,O,O,WL,O,O
+SOC501,Government,0.5,O,O,O,O,O,X,O,O,O,O
+CTE323,Graphic Design I,0.5,X,O,O,O,O,O,X,O,X,O
+CTE357,Graphic Design II,0.5,X,O,O,O,O,O,X,O,X,O
+CTE359,Graphic Design III,0.5,X,O,O,O,O,O,X,O,X,O
+FAA321,Guitar 1,0.5,O,O,O,O,O,O,X,O,O,O
+FAA323/324,Guitar 2,.5 or 1.0,O,O,O,O,O,O,X,O,O,O
+FAA327/328,Guitar 3,.5 or 1.0,O,O,O,O,O,O,X,O,O,O
+343FAA,Honors Wind Ensemble,1,O,O,O,O,O,O,X,O,O,O
+SOC101,iGeography,0.5,O,O,O,O,O,X,O,O,O,O
+CTE105,Independent Living,0.5,X,O,O,O,O,O,O,O,O,O
+FAA203/204,Intermediate Drama,.5 or 1.0,O,O,O,O,O,O,X,O,O,O
+FAA101,Introduction to Art,0.5,O,O,O,O,O,O,X,O,O,O
+FAA107,Introduction to Art: Ceramics,0.5,O,O,O,O,O,O,X,O,O,O
+FAA117,Introduction to Art: Design,0.5,O,O,O,O,O,O,X,O,O,O
+FAA115,Introduction to Art: Drawing & Painting,0.5,O,O,O,O,O,O,X,O,O,O
+577CTE,Introduction to Education,1,X,O,O,O,O,O,O,O,O,O
+CTE353,Introduction to Graphic Design,0.5,X,O,O,O,O,O,X,O,X,O
+SOC113,Introduction to Law,0.5,O,O,O,O,O,X,O,O,O,O
+PED211/212,Introduction to Weight Training,.5 or 1.0,O,O,O,X,O,O,O,O,O,O
+407FAA,Jazz Choir,1,O,O,O,O,O,O,X,O,O,O
+359FAA,Jazz Ensemble ,1,O,O,O,O,O,O,X,O,O,O
+ENG515,Journalism,0.5,O,O,O,O,O,O,O,Elective,O,O
+SER101,Leadership,0.5,O,O,O,O,O,O,O,Elective,O,O
+ENG531/532,Library & Information Science,.5 or 1.0,O,O,O,O,O,O,O,Elective,O,O
+PED221/222,Lifetime Sports,.5 or 1.0,O,O,O,X,O,O,O,O,O,O
+FAA353,Marching Band,1,O,O,O,X,O,O,X,O,X,O
+255CTE,Marketing I,1,X,O,O,O,O,O,O,O,O,O
+257CTE,Marketing II,1,X,O,O,O,O,O,O,O,O,O
+265CTE,Marketing III – School Store,1,X,O,O,O,O,O,O,O,O,O
+267CTE,Marketing IV – School Store,1,X,O,O,O,O,O,O,O,O,O
+CTE531,Medical Careers Internship,0.5,X,O,O,O,O,O,O,O,O,O
+413FAA,Men’s Vocal Ensemble,1,O,O,O,O,O,O,X,O,O,O
+035MTH,Modified Algebraic Concepts A (IEP),1,O,O,X,O,O,O,O,O,O,O
+037MTH,Modified Algebraic Concepts B (IEP),1,O,O,X,O,O,O,O,O,O,O
+065MTH,Modified Algebra 2 (IEP),1,O,O,X,O,O,O,O,O,O,X
+031MTH,Modified Basic Mathematics (IEP),1,O,O,X,O,O,O,O,O,O,X
+071ENG,Modified English I (IEP),1,O,X,O,O,O,O,O,O,O,X
+073ENG,Modified English II (IEP),1,O,X,O,O,O,O,O,O,O,X
+075ENG,Modified English III (IEP),1,O,X,O,O,O,O,O,O,O,O
+077ENG,Modified English IV (IEP),1,O,X,O,O,O,O,O,CCRS,O,O
+033MTH,Modified General Mathematics (IEP),1,O,O,X,O,O,O,O,O,O,O
+055MTH,Modified Geometry (IEP),1,O,O,X,O,O,O,O,O,O,O
+051MTH,Modified Geometry A (IEP),1,O,O,X,O,O,O,O,O,O,X
+053MTH,Modified Geometry B (IEP),1,O,O,X,O,O,O,O,O,O,X
+047MTH,Modified Intensified Algebra (IEP),1,O,O,X,O,O,O,O,O,O,X
+031ENG,Modified Reading I (IEP),1,O,X,O,O,O,O,O,O,O,X
+033ENG,Modified Reading II (IEP),1,O,X,O,O,O,O,O,O,O,X
+STS061/062,Modified Social Skills (IEP),.5 or 1.0,O,O,O,O,O,O,O,Elective,O,O
+051ENG,Modified Written Language I (IEP),1,O,X,O,O,O,O,O,O,O,O
+053ENG,Modified Written Language II (IEP),1,O,X,O,O,O,O,O,O,O,O
+055ENG,Modified Written Language III (IEP),1,O,X,O,O,O,O,O,O,O,O
+057ENG,Modified Written Language IV (IEP),1,O,X,O,O,O,O,O,O,O,O
+FAA371/372,Music Studio I,.5 or 1.0,O,O,O,O,O,O,X,O,O,O
+FAA373/374,Music Studio II,.5 or 1.0,O,O,O,O,O,O,X,O,O,O
+ENG523,Myth & Legend,0.5,O,O,O,O,O,O,O,Elective,O,O
+103NJR,Naval Science  1- NJROTC 1 (EHS),1,X,O,O,O,O,O,O,Elective,X,O
+203NJR,Naval Science 2 - NJROTC 2 (EHS),1,X,O,O,O,O,O,O,Elective,X,O
+303NJR,Naval Science 3 - NJROTC 3 (EHS),1,X,O,O,O,O,X,O,O,X,O
+403NJR,Naval Science 4 - NJROTC 4 (EHS),1,X,O,O,O,O,O,O,Elective,X,O
+CTE115,Nutrition I,0.5,X,O,O,O,O,O,O,O,O,O
+CTE120,Nutrition II,0.5,X,O,O,O,O,O,O,O,O,O
+SCI211,Oceanography,0.5,O,O,O,O,X,O,O,O,O,O
+PED217/246,PE Peer Tutor,.5 or 1.0,O,O,O,X,O,O,O,O,O,X
+SER105/106,Peer Tutor,.5 or 1.0,O,O,O,O,O,O,O,Elective,O,O
+331FAA,Percussion Ensemble,1,O,O,O,O,O,O,X,O,O,O
+SOC630,Philosophy,0.5,O,O,O,O,O,X,O,O,O,O
+PED101,Physical Education 1,0.5,O,O,O,X,O,O,O,O,O,O
+471SCI,Physics by Design,1,X,O,O,O,X,O,O,O,X,O
+FAA311,Piano Lab 1,0.5,O,O,O,O,O,O,X,O,O,O
+FAA313/314,Piano Lab 2,.5 or 1.0,O,O,O,O,O,O,X,O,O,X
+401MTH,Precalculus,1,O,O,X,O,O,O,O,O,O,O
+191CTE,Principles of Manufacturing 1,1,X,O,O,O,O,O,O,O,O,O
+291CTE,Principles of Manufacturing 2,1,X,O,O,O,O,O,O,O,O,X
+SOC610,Psychology,0.5,O,O,O,O,O,X,O,O,O,O
+281CTE,Publications I,1,X,O,O,O,O,O,X,O,X,O
+283CTE,Publications II,1,X,O,O,O,O,O,X,O,X,O
+285CTE,Publications III,1,X,O,O,O,O,O,X,O,X,O
+287CTE,Publications IV,1,X,O,O,O,O,O,X,O,X,O
+307SCI,Robotics Technology,1,X,O,O,O,X,O,O,O,X,O
+SCI903/904,Science Lab Assistant,.5 or 1.0,O,O,O,O,O,O,O,Elective,O,X
+SOC620,Sociology,0.5,O,O,O,O,O,X,O,O,O,O
+131WLA,Spanish 1,1,O,O,O,O,O,O,O,WL,O,O
+231WLA,Spanish 2,1,O,O,O,O,O,O,O,WL,O,O
+331WLA,Spanish 3,1,O,O,O,O,O,O,O,WL,O,O
+431WLA,Spanish 4,1,O,O,O,O,O,O,O,WL,O,O
+233WLA,Spanish for Heritage Speakers,1,O,O,O,O,O,O,O,WL,O,O
+ENG501,Speech ,0.5,O,O,O,O,O,O,O,Elective,O,O
+CTE166/176,Sports Medicine I,0.5,X,O,O,O,X,O,O,O,X,O
+CTE170/176,"Sports Medicine II, plus Internship",.5 and .5,X,O,O,O,X,O,O,O,X,O
+CTE172/176,"Sports Medicine III, plus Internship",.5 and .5,X,O,O,O,X,O,O,O,X,X
+PED215,Sports Performance,0.5,O,O,O,X,O,O,O,O,O,X
+601MTH,Statistics,1,O,O,X,O,O,O,O,O,O,X
+355FAA,Symphonic Band,1,O,O,O,O,O,O,X,O,O,X
+403FAA,Symphonic Choir,1,O,O,O,O,O,O,X,O,O,O
+463FAA,Symphonic Orchestra,1,O,O,O,O,O,O,X,O,O,O
+ALT915/916,TA/OA,.5 or 1.0,O,O,O,O,O,O,O,Elective,O,O
+PED231/232,Team Sports,.5 or 1.0,O,O,O,X,O,O,O,O,O,O
+383CTE,Technical Theatre I,1,X,O,O,O,O,O,X,O,X,O
+CTE385/386,Technical Theatre II,.5 or 1.0,X,O,O,O,O,O,X,O,X,O
+CTE387/388,Technical Theatre III,.5 or 1.0,X,O,O,O,O,O,X,O,X,O
+013ENG,Transitional English (ELs),1,O,O,O,O,O,O,O,Elective,O,O
+415FAA,Treble Choir,1,O,O,O,O,O,O,X,O,O,O
+301SOC,U.S. History,1,O,O,O,O,O,X,O,O,O,O
+463ENG,UW English General,1,O,X,O,O,O,O,O,O,O,O
+465ENG,UW English Humanities,1,O,X,O,O,O,O,O,O,O,O
+695SOC,UW Psychology,1,O,O,O,O,O,X,O,O,O,O
+301CTE,Video Production I,1,X,O,O,O,O,O,O,O,O,O
+304CTE,Video Production II,1,X,O,O,O,O,O,O,O,O,O
+307CTE,Video Production III,1,X,O,O,O,O,O,O,O,O,O
+PED201/202,Walking,.5 or 1.0,O,O,O,X,O,O,O,O,O,O
+SOC401,Washington State History,0.5,O,O,O,O,O,X,O,O,O,O
+CTE345,Web Design,0.5,X,O,O,O,O,O,O,O,O,O
+PED213/214,Weight Training,.5 or 1.0,O,O,O,X,O,O,O,O,O,O
+341FAA,Wind Ensemble,1,O,O,O,O,O,O,X,O,O,O
+417FAA,Women’s Select Ensemble,1,O,O,O,O,O,O,X,O,O,O
+CTE501/502,Worksite Learning Experience,.5 or 1.0,X,O,O,O,O,O,O,O,O,O
+CTE505,Worksite Learning Internship,0.5,X,O,O,O,O,O,O,O,O,O
+CTE509,Worksite Learning Volunteer,0.5,X,O,O,O,O,O,O,O,O,O
+201SOC,World History,1,O,O,O,O,O,X,O,O,O,O
+PED216/245,Yoga Core Training,.5 or 1.0,O,O,O,X,O,O,O,O,O,O

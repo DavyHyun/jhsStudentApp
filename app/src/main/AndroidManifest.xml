@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.a336819.jhsapplication">
+
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SignUp_SIgnIn.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            a
+        </activity>
+        <activity
+            android:name=".SignUp_SIgnIn.SignUp"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".Home"
+            android:label="JHS Application"
+            android:theme="@style/AppTheme.NoActionBar"
+            />
+        <activity
+            android:name=".SignUp_SIgnIn.SignUpData"
+            android:label="JHS Application"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".SMS.Chat"
+            android:label="JHS Application"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".Credit"
+        android:label="JHS Application" />
+        <activity
+            android:name=".Links"
+            android:label="JHS Application"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".AddClasses.AddClassesF"
+            android:label="JHS Application"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".AddClasses.AddClassesS"
+            android:label="JHS Application"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".AddClasses.AddClassesJ"
+            android:label="JHS Application"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".AddClasses.AddClassesSE"
+            android:label="JHS Application"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".SMS.sendSMS"
+            android:label="JHS Application"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".TODO_ACTIVITY.ToDo"
+            android:label="JHS Application"
+            />
+    </application>
+
+</manifest>
