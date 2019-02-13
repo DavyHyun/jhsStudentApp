@@ -1,9 +1,6 @@
 package com.example.a336819.jhsapplication.TODO_ACTIVITY;
 
 import android.content.DialogInterface;
-import android.content.Intent;
-import android.graphics.PorterDuff;
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AlertDialog;
@@ -12,13 +9,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ArrayAdapter;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toolbar;
 
-import com.example.a336819.jhsapplication.Home;
 import com.example.a336819.jhsapplication.R;
 
 import java.util.ArrayList;

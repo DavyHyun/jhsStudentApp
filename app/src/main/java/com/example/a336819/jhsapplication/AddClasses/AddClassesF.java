@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 
-import com.example.a336819.jhsapplication.Home;
+import com.example.a336819.jhsapplication.HOME.Home;
 import com.example.a336819.jhsapplication.R;
 import com.example.a336819.jhsapplication.InformationStore.UserInformation;
 import com.google.firebase.auth.FirebaseAuth;

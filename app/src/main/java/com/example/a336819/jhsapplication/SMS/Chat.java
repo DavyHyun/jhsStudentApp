@@ -14,7 +14,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
-import com.example.a336819.jhsapplication.Home;
+import com.example.a336819.jhsapplication.HOME.Home;
 import com.example.a336819.jhsapplication.R;
 import com.example.a336819.jhsapplication.InformationStore.UserInformation;
 import com.google.firebase.database.DataSnapshot;

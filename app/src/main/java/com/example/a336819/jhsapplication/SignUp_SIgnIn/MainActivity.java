@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.a336819.jhsapplication.Home;
+import com.example.a336819.jhsapplication.HOME.Home;
 import com.example.a336819.jhsapplication.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;

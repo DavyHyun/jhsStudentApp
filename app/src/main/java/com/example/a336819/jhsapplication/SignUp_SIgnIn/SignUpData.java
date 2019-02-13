@@ -11,7 +11,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
-import com.example.a336819.jhsapplication.Home;
+import com.example.a336819.jhsapplication.HOME.Home;
 import com.example.a336819.jhsapplication.InformationStore.Student;
 import com.example.a336819.jhsapplication.R;
 import com.google.firebase.auth.FirebaseAuth;

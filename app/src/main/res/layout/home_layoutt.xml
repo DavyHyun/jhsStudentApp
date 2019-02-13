@@ -88,6 +88,42 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Widget.Switch"
         android:translationY="80dp" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/details_field"
+        android:textColor="#FFFFFF"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="20sp"
+
+        android:gravity="center"
+        android:translationY="180dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/weather_icon"
+        android:textColor="#FFFFFF"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="90sp"
+
+        android:gravity="center"
+        android:translationY="190dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/current_temperature_field"
+        android:textColor="#FFFFFF"
+
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:translationY="310dp"
+        android:gravity="center"
+        android:textSize="50dp"
+        />
+
+
 
 
 
